@@ -17,6 +17,12 @@ header {
 	border-radius: 50%;
 }
 
+.school-img, .cert-img {
+	width: 200px;
+	margin-top: 10px;
+	border-radius: 10px;
+}
+
 button {
 	padding: 10px 20px;
 	margin-top: 10px;
