@@ -23,10 +23,29 @@ header {
 	border-radius: 10px;
 }
 
+/* Bigger GreenSense Image */
+.greensense-img {
+	width: 300px;      /* bigger size */
+	margin-top: 10px;
+	border-radius: 10px;
+}
+
 button {
 	padding: 10px 20px;
 	margin-top: 10px;
 	cursor: pointer;
+}
+
+/* Clickable project title */
+.project-link {
+	font-size: 20px;
+	font-weight: bold;
+	color: #0066cc;
+	text-decoration: none;
+}
+
+.project-link:hover {
+	text-decoration: underline;
 }
 
 /* Dark Theme */
