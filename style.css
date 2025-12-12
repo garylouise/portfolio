@@ -25,9 +25,17 @@ header {
 
 /* Bigger GreenSense Image */
 .greensense-img {
-	width: 300px;      /* bigger size */
+	width: 300px;
 	margin-top: 10px;
 	border-radius: 10px;
+}
+
+/* FA Images */
+.fa-img {
+	width: 250px;
+	margin-top: 10px;
+	border-radius: 10px;
+	cursor: pointer;
 }
 
 button {
